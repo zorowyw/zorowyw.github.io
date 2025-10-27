@@ -6,14 +6,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-吴洋文，副教授，硕士生导师。2012~2022年就读于华北电力大学，获可再生能源与清洁能源博士学位，2022~2024年在华北电力大学动力工程及工程热物理博士后流动站从事博士后研究工作。2025年任副教授、硕士生导师。主持国家自然科学基金青年科学基金、博士后创新人才支持计划、中国博士后科学基金面上资助、中央高校基本业务费等项目。至今已在本领域国际权威期刊发表论文60余篇（其中以第一或通讯作者发表SCI论文30余篇）、授权发明专利10余项。获湖北省科学技术进步一等奖、中国发明协会发明创业奖创新奖一等奖、日内瓦国际发明展金奖等奖励。自2022年参加工作起，协助指导研究生多名，获全国大学生节能减排社会实践与科技竞赛一等奖、中国国际大学生创新大赛北京市一等奖等奖励，获校长奖学金1人次，国家奖学金4人次，华北电力大学优秀毕业论文3人次，北京市优秀毕业生4人次。
+Yang-wen Wu, Associate Professor and Master's Supervisor. From 2012 to 2022, he pursued his doctoral studies at North China Electric Power University, earning a Ph.D. in Renewable Energy and Clean Energy. From 2022 to 2024, he conducted postdoctoral research at the Postdoctoral Research Station for Power Engineering and Engineering Thermophysics at North China Electric Power University. In 2025, he was appointed Associate Professor and Master's Supervisor. He has led projects including the National Natural Science Foundation of China (NSFC) Youth Fund, the Postdoctoral Innovation Talent Support Program, the China Postdoctoral Science Foundation General Funding, and Central University Basic Operational Funds. To date, he has published over 60 papers in internationally authoritative journals in his field (including more than 30 SCI papers as first or corresponding author) and holds over 10 authorized invention patents. Awards include the First Prize of Hubei Provincial Science and Technology Progress Award, First Prize of the Innovation Award at the China Invention Association's Invention Entrepreneurship Awards, and the Gold Medal at the Geneva International Exhibition of Inventions. Since commencing work in 2022, has co-supervised multiple graduate students who have received the First Prize in the National College Students' Energy Conservation and Emission Reduction Social Practice and Technology Competition, the Beijing First Prize in the China International College Students Innovation Competition, one President's Scholarship, four National Scholarships, three North China Electric Power University Outstanding Thesis Awards, and four Beijing Outstanding Graduate Awards.
 
-研究方向：
+Research Directions:
 
-能源的高效利用——生物质、煤等固体燃料的热解/气化/燃烧；退役新能源器件的热处理回收；短链烷烃在能源化工领域的催化转化；
+Efficient Energy Utilization—Pyrolysis/gasification/combustion of solid fuels (biomass, coal); Thermal recycling of end-of-life new energy devices; Catalytic conversion of short-chain alkanes in energy and chemical industries;
 
-污染物控制——全工况烟气SCR脱硝；重金属、VOCs等多污染物集成控制；CO2、NOx等污染物的催化加氢利用；污染物控制/转化的功能材料开发；
+Pollutant Control:
+Full-condition flue gas SCR denitrification; integrated control of multiple pollutants including heavy metals and VOCs; catalytic hydrogenation utilization of CO₂, NOx, and other pollutants; development of functional materials for pollutant control/conversion.
 
-综合系统优化——新能源综合能源系统的建模、评价；基于多目标优化算法，优化系统配置和运行策略。
+Integrated System Optimization:
+Modeling and evaluation of new energy integrated energy systems; optimization of system configuration and operational strategies based on multi-objective optimization algorithms.
 
 
