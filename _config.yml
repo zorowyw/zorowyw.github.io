@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "zh-CHN"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Yang-wen Wu / Site Title"
+title                    : "Yang-wen Wu / Associate Professor"
 title_separator          : "-"
 name                     : &name "Yang-wen Wu"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
